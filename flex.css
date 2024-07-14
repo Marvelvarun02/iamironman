@@ -1,0 +1,29 @@
+.container
+{
+    display: flex;
+    padding: 10px ;
+    flex-direction:column-reverse;
+    
+}
+.box1
+{
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    
+}
+.box2
+{
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+.box3
+{
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
